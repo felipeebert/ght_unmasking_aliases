@@ -1,0 +1,954 @@
+
+[('FULL_NAME', 1)]
+512;None;Anson Jacob;ansonkuzhumbil@gmail.com;None
+3602;None;Anson Jacob;ansonjacob.aj@gmail.com;None
+
+[('FULL_NAME', 1)]
+1025;None;Quentin Perret;quentin.perret@arm.com;None
+1316;None;Quentin Perret;qperret@google.com;None
+
+[('FULL_NAME', 1)]
+2050;None;Chilun Huang;chilun_huang@htc.com;None
+2056;None;Chilun Huang;chilunhuang@google.com;None
+
+[('COMP_EMAIL_PREFIX', 1), ('FULL_NAME', 1)]
+1027;None;Daichi Ueura;daichi.ueura@sony.com;None
+5400;None;Daichi Ueura;daichi.ueura@gmail.com;None
+
+[('FULL_NAME', 3)]
+516;None;Logan Chien;loganchien@google.com;None
+741;None;Logan Chien;tzuhsiang.chien@gmail.com;None
+622;None;Logan Chien;loganchien.mtk@gmail.com;None
+
+[('COMP_EMAIL_PREFIX', 1), ('FULL_NAME', 1)]
+4613;None;huasong chai;chrison.chai@spreadtrum.com;None
+5431;None;huasong chai;chrison.chai@unisoc.com;None
+
+[('FULL_NAME', 1)]
+2779;None;Keith Deacon;kdeacon@ti.com;None
+4992;None;Keith Deacon;keith.deacon@gmail.com;None
+
+[('EMAIL', 1)]
+1543;None;jungyee yoo;jungyee.yoo@lge.com;None
+2627;None;jungyee Yoo;jungyee.yoo@lge.com;None
+
+[('SIMPLE_EMAIL_PREFIX', 1), ('FULL_NAME', 1)]
+8;None;Andreas Gampe;agampe@google.com;None
+2120;None;Andreas Gampe;agampe@fb.com;None
+
+[('FULL_NAME', 1)]
+3081;None;Khalid Zubair;statik213@gmail.com;None
+3172;None;Khalid Zubair;kzubair@cyngn.com;None
+
+[('FULL_NAME', 1)]
+1035;None;Mike Ma;yanmin@google.com;None
+1221;None;Mike Ma;mamik@google.com;None
+
+[('FULL_NAME', 1)]
+1197;None;Pierre Couillaud;pierre.couillaud@broadcom.com;None
+2247;None;Pierre Couillaud;pierre%broadcom.com@gtempaccount.com;None
+
+[('COMP_EMAIL_PREFIX', 1), ('FULL_NAME', 3)]
+2576;None;Alin Jerpelea;alin.jerpelea@sonymobile.com;None
+4243;None;Alin Jerpelea;jerpelea@gmail.com;None
+4654;None;Alin Jerpelea;alin.jerpelea@sony.com;None
+
+[('FULL_NAME', 1)]
+515;None;Louis Chang;louis_chang@htc.com;None
+5296;None;Louis Chang;louischang@google.com;None
+
+[('SIMPLE_EMAIL_PREFIX', 1), ('FULL_NAME', 1)]
+532;None;Dan Willemsen;dwillemsen@google.com;None
+660;None;Dan Willemsen;dwillemsen@nvidia.com;None
+
+[('SIMPLE_EMAIL_PREFIX', 1), ('FULL_NAME', 1)]
+536;None;Lajos Molnar;lajos@google.com;None
+3513;None;Lajos Molnar;lajos@ti.com;None
+
+[('FULL_NAME', 3)]
+1563;None;Srikanth Chintala;quic_srikchin@quicinc.com;None
+3927;None;Srikanth Chintala;srikchin@codeaurora.org;None
+2803;None;Srikanth Chintala;chintala.srikanth82@gmail.com;None
+
+[('FULL_NAME', 1)]
+1054;None;Qi Wang;wangqi_a@xiaomi.com;None
+4161;None;Qi Wang;wangqi0316@gmail.com;None
+
+[('SIMPLE_EMAIL_PREFIX', 1), ('FULL_NAME', 3)]
+1571;None;Ajay Dudani;adudani@codeaurora.org;None
+3917;None;Ajay Dudani;adudani@google.com;None
+2519;None;Ajay Dudani;ajaydudani@gmail.com;None
+
+[('SIMPLE_EMAIL_PREFIX', 1), ('FULL_NAME', 1)]
+1061;None;Jeff Sharkey;jsharkey@google.com;None
+2042;None;Jeff Sharkey;jsharkey@android.com;None
+
+[('SIMPLE_EMAIL_PREFIX', 1), ('FULL_NAME', 1)]
+3110;None;nitin arora;niarora@qca.qualcomm.com;None
+3121;None;nitin arora;niarora@codeaurora.org;None
+
+[('SIMPLE_EMAIL_PREFIX', 1), ('FULL_NAME', 1)]
+4444;None;Andrew Grieve;agrieve@chromium.org;None
+5610;None;Andrew Grieve;agrieve@google.com;None
+
+[('SIMPLE_EMAIL_PREFIX', 1), ('FULL_NAME', 1)]
+555;None;Brian Duff;bduff@google.com;None
+1531;None;Brian Duff;bduff@fb.com;None
+
+[('FULL_NAME', 1)]
+2604;None;Scott Anderson;camel@droidmod.org;None
+5017;None;Scott Anderson;saa@google.com;None
+
+[('EMAIL', 3)]
+3629;None;gaoshang;gaoshang@xiaomi.com;None
+4674;None;gaoshang;gaoshang@xiaomi.com;None
+5052;None;gaoshang;gaoshang@xiaomi.com;None
+
+[('EMAIL', 1)]
+4293;None;Michael Chock;mchock@nvidia.com;None
+4325;None;Michael Chock US;mchock@nvidia.com;None
+
+[('FULL_NAME', 1)]
+1587;None;Steven Liu;steveliu@google.com;None
+2915;None;Steven Liu;stevenliu@motorola.com;None
+
+[('SIMPLE_EMAIL_PREFIX', 1), ('FULL_NAME', 1)]
+563;None;Chris Craik;ccraik@google.com;None
+2959;None;Chris Craik;ccraik@android.com;None
+
+[('FULL_NAME', 1)]
+52;None;Mathieu Chartier;mathieuc@google.com;None
+4787;None;Mathieu Chartier;mathieu.a.chartier@gmail.com;None
+
+[('FULL_NAME', 1)]
+565;None;Duane Sand;duane.1.sand@gmail.com;None
+3713;None;Duane Sand;duane.sand@imgtec.com;None
+
+[('FULL_NAME', 1)]
+1595;None;Yujing Gu;quic_yujingg@quicinc.com;None
+4202;None;Yujing Gu;yujingg@qualcomm.corp-partner.google.com;None
+
+[('FULL_NAME', 1)]
+1596;None;Digish Pandya;digishp@codeaurora.org;None
+5757;None;Digish Pandya;quic_digishp@quicinc.com;None
+
+[('FULL_NAME', 1)]
+2622;None;Aniroop Mathur;aniroop.mathur@gmail.com;None
+2902;None;Aniroop Mathur;a.mathur@samsung.com;None
+
+[('FULL_NAME', 1)]
+576;None;Raghu Gandham;glraghukishore@gmail.com;None
+2174;None;Raghu Gandham;raghu.gandham@imgtec.com;None
+
+[('FULL_NAME', 1)]
+65;None;Brian Carlstrom;bdc@google.com;None
+4889;None;Brian Carlstrom;carlstrom@gmail.com;None
+
+[('FULL_NAME', 1)]
+1091;None;Stephen Kyle;stephen.kyle@arm.com;None
+2377;None;Stephen Kyle;stephenckyle@googlemail.com;None
+
+[('COMP_EMAIL_PREFIX', 1), ('FULL_NAME', 1)]
+581;None;Hidenari Koshimae;hidenari.koshimae@sonymobile.com;None
+4905;None;Hidenari Koshimae;hidenari.koshimae@sony.com;None
+
+[('FULL_NAME', 3)]
+582;None;Bo Zhang;zhang@broadcom.com;None
+2544;None;Bo Zhang;bo.c.zhang@tieto.com;None
+734;None;Bo Zhang;bo.zhang@nxp.com;None
+
+[('FULL_NAME', 1)]
+584;None;Ben Gruver;jesusfreke@jesusfreke.com;None
+655;None;Ben Gruver;bgruv@google.com;None
+
+[('SIMPLE_EMAIL_PREFIX', 1), ('FULL_NAME', 1)]
+2060;None;Yashdev Singh;yashdevs@quicinc.com;None
+3514;None;Yashdev Singh;yashdevs@codeaurora.org;None
+
+[('FULL_NAME', 1)]
+3146;None;Satya Calloji;satyac%broadcom.com@gtempaccount.com;None
+3301;None;Satya Calloji;satya.calloji@broadcom.com;None
+
+[('SIMPLE_EMAIL_PREFIX', 1), ('FULL_NAME', 1)]
+1100;None;Joner Lin;jonerlin@google.com;None
+4937;None;Joner Lin;jonerlin@android.com;None
+
+[('FULL_NAME', 1)]
+589;None;Jack Yu;jackcwyu@google.com;None
+964;None;Jack Yu;jackyu@google.com;None
+
+[('COMP_EMAIL_PREFIX', 1), ('FULL_NAME', 1)]
+4043;None;Takahiro Manabe;takahiro.manabe@sonymobile.com;None
+4512;None;Takahiro Manabe;takahiro.manabe@sony.com;None
+
+[('FULL_NAME', 1)]
+591;None;Mike Lockwood;lockwood%android.com@gtempaccount.com;None
+2220;None;Mike Lockwood;lockwood@google.com;None
+
+[('FULL_NAME', 1)]
+3153;None;Christopher Orr;None;None
+3901;None;Christopher Orr;chris@orr.me.uk;None
+
+[('SIMPLE_EMAIL_PREFIX', 1), ('FULL_NAME', 1)]
+3154;None;Ajay Nambi;anambi@codeaurora.org;None
+5384;None;Ajay Nambi;anambi@quicinc.com;None
+
+[('SIMPLE_EMAIL_PREFIX', 1), ('FULL_NAME', 1)]
+83;None;Peter Marshall;petermarshall@google.com;None
+5664;None;Peter Marshall;petermarshall@chromium.org;None
+
+[('SIMPLE_EMAIL_PREFIX', 1), ('FULL_NAME', 1)]
+2646;None;Dan Morrill;morrildl@android.com;None
+4641;None;Dan Morrill;morrildl@sententio.us;None
+
+[('FULL_NAME', 1)]
+1892;None;Daniel Kutik;daniel.kutik@lavawerk.com;None
+4951;None;Daniel Kutik;daniel@kutik.eu;None
+
+[('FULL_NAME', 1)]
+3674;None;Laura Abbott;labbott@redhat.com;None
+3977;None;Laura Abbott;lauraa@codeaurora.org;None
+
+[('SIMPLE_EMAIL_PREFIX', 1), ('FULL_NAME', 1)]
+1978;None;Sumit Bhattacharya;sumitb@nvidia.com;None
+3725;None;Sumit Bhattacharya;sumitb@gpartner-nvidia.com;None
+
+[('FULL_NAME', 1)]
+1633;None;Ravi Paluri;quic_rpaluri@quicinc.com;None
+4490;None;Ravi Paluri;rpaluri@codeaurora.org;None
+
+[('FULL_NAME', 1)]
+2658;None;Jeff Dowling;jdowling.fl@gmail.com;None
+2982;None;Jeff Dowling;jeffd.aosp@gmail.com;None
+
+[('COMP_EMAIL_PREFIX', 1), ('FULL_NAME', 1)]
+2049;None;Mrten Kongstad;marten.kongstad@volvocars.com;None
+3815;None;Mrten Kongstad;marten.kongstad@sony.com;None
+
+[('FULL_NAME', 1)]
+103;None;Chia-I Wu;olvaffe@gmail.com;None
+3596;None;Chia-I Wu;olv@google.com;None
+
+[('FULL_NAME', 1)]
+616;None;David Goldfarb;deg@degel.com;None
+2166;None;David Goldfarb;dgoldfarb@google.com;None
+
+[('COMP_EMAIL_PREFIX', 1), ('FULL_NAME', 1)]
+106;None;Serban Constantinescu;serban.constantinescu@arm.com;None
+2599;None;Serban Constantinescu;serban.constantinescu@linaro.org;None
+
+[('COMP_EMAIL_PREFIX', 1), ('FULL_NAME', 1)]
+3695;None;Yoshiaki Maruoka;yoshiaki.maruoka@sonymobile.com;None
+4678;None;Yoshiaki Maruoka;yoshiaki.maruoka@sony.com;None
+
+[('FULL_NAME', 1)]
+1649;None;Ben Clayton;bclayton@google.com;None
+2385;None;Ben Clayton;headlessclayton@gmail.com;None
+
+[('COMP_EMAIL_PREFIX', 1), ('FULL_NAME', 1)]
+1141;None;Yoshiaki Naka;yoshiaki.naka@sony.com;None
+3631;None;Yoshiaki Naka;yoshiaki.naka@sonymobile.com;None
+
+[('COMP_EMAIL_PREFIX', 1), ('FULL_NAME', 1)]
+4214;None;Lena Djokic;lena.djokic@imgtec.com;None
+4593;None;Lena Djokic;lena.djokic@mips.com;None
+
+[('FULL_NAME', 1)]
+4614;None;Junwoo Kim;serios777@gmail.com;None
+5613;None;Junwoo Kim;junwookapa@gmail.com;None
+
+[('COMP_EMAIL_PREFIX', 1), ('FULL_NAME', 1)]
+20;None;Ashok Bhat;ashok.bhat@gmail.com;None
+2615;None;Ashok Bhat;ashok.bhat@arm.com;None
+
+[('FULL_NAME', 1)]
+4219;None;John Shamoon;johnshamoon@google.com;None
+4382;None;John Shamoon;johnshamoon96@gmail.com;None
+
+[('FULL_NAME', 1)]
+124;None;Dan Albert;danalbert@google.com;None
+5713;None;Dan Albert;daniel.j.albert@gmail.com;None
+
+[('SIMPLE_EMAIL_PREFIX', 1), ('FULL_NAME', 1)]
+126;None;Ecco Park;eccopark@broadcom.com;None
+4000;None;Ecco Park;eccopark@google.com;None
+
+[('FULL_NAME', 3)]
+3200;None;Bin Chen;bin.chen@linaro.org;None
+3624;None;Bin Chen;pierr.chen@gmail.com;None
+4300;None;Bin Chen;bin0515@gmail.com;None
+
+[('FULL_NAME', 1)]
+129;None;Deepanshu Gupta;deepanshu@google.com;None
+2132;None;Deepanshu Gupta;gupta.deepanshu@gmail.com;None
+
+[('FULL_NAME', 1)]
+2178;None;Hossein Mohtasham;hmohtasham@google.com;None
+3950;None;Hossein Mohtasham;shmohtasham@gmail.com;None
+
+[('SIMPLE_EMAIL_PREFIX', 1), ('FULL_NAME', 1)]
+2692;None;Jon Larimer;jlarimer@google.com;None
+4525;None;Jon Larimer;jlarimer@gmail.com;None
+
+[('COMP_EMAIL_PREFIX', 1), ('FULL_NAME', 1)]
+4231;None;Kevin Wangtao;kevin.wangtao@hisilicon.com;None
+4285;None;Kevin Wangtao;kevin.wangtao@linaro.org;None
+
+[('FULL_NAME', 1)]
+2699;None;Gaurav Batra;gbatra.alphabet.com@gmail.com;None
+3017;None;Gaurav Batra;gbatra@nvidia.com;None
+
+[('FULL_NAME', 1)]
+652;None;Pavan Savoy;pavan_savoy@ti.com;None
+2325;None;Pavan Savoy;pavan.savoy@gmail.com;None
+
+[('FULL_NAME', 1)]
+2190;None;Neeraj Soni;neersoni@codeaurora.org;None
+2191;None;Neeraj Soni;quic_neersoni@quicinc.com;None
+
+[('FULL_NAME', 1)]
+1167;None;juanjuan hou;juanjuan.hou@unisoc.com;None
+2816;None;juanjuan hou;houjuanjuan2000@gmail.com;None
+
+[('FULL_NAME', 1), ('EMAIL_DOMAIN', 1)]
+3096;None;Ravi Nagarajan;nravi@broadcom.com;None
+3227;None;Ravi Nagarajan;ravi.nagarajan@broadcom.com;None
+
+[('FULL_NAME', 1)]
+148;None;Riddle Hsu;riddle_hsu@htc.com;None
+1313;None;Riddle Hsu;riddlehsu@google.com;None
+
+[('COMP_EMAIL_PREFIX', 1), ('FULL_NAME', 1)]
+149;None;Zheng Xu;zheng.xu@arm.com;None
+2526;None;Zheng Xu;zheng.xu@linaro.org;None
+
+[('FULL_NAME', 1)]
+3736;None;sanshan zhang;zhangpeter133@gmail.com;None
+5612;None;sanshan zhang;pete.zhang@nxp.com;None
+
+[('COMP_EMAIL_PREFIX', 1), ('FULL_NAME', 1)]
+3176;None;Tim Zhang;tim.zhang@linaro.org;None
+3966;None;Tim Zhang;tim.zhang@spreadtrum.com;None
+
+[('SIMPLE_EMAIL_PREFIX', 1), ('FULL_NAME', 3)]
+667;None;Hemant Gupta;quic_hemantg@quicinc.com;None
+3083;None;Hemant Gupta;hemantg@codeaurora.org;None
+5245;None;Hemant Gupta;hemantg@qti.qualcomm.com;None
+
+[('FULL_NAME', 1)]
+1183;None;Chong Zhang;chz@google.com;None
+3049;None;Chong Zhang;chzhang@nvidia.com;None
+
+[('FULL_NAME', 1)]
+3744;None;Abhishek Adappa;aadappa@codeaurora.org;None
+4280;None;Abhishek Adappa;abadappa@gmail.com;None
+
+[('FULL_NAME', 1)]
+4770;None;Erin Yang;erin.yang@mstarsemi.com;None
+5415;None;Erin Yang;erinyang@google.com;None
+
+[('FULL_NAME', 1)]
+3754;None;Bin Xu;xubin@marvell.com;None
+5525;None;Bin Xu;kevinxxuubb@gmail.com;None
+
+[('SIMPLE_EMAIL_PREFIX', 1), ('FULL_NAME', 1)]
+3271;None;Spencer Sutterlin;ssutterlin@nvidia.com;None
+3375;None;Spencer Sutterlin;ssutterlin@gpartner-nvidia.com;None
+
+[('FULL_NAME', 1)]
+684;None;Peter Collingbourne;pcc@google.com;None
+2888;None;Peter Collingbourne;peter@pcc.me.uk;None
+
+[('FULL_NAME', 1)]
+173;None;Leo Hsu;leo_hsu@htc.com;None
+1352;None;Leo Hsu;leohsu@google.com;None
+
+[('FULL_NAME', 1)]
+2845;None;Olli Etuaho;oetuaho%nvidia.com@gtempaccount.com;None
+3305;None;Olli Etuaho;oetuaho@nvidia.com;None
+
+[('COMP_EMAIL_PREFIX', 1), ('FULL_NAME', 1)]
+1200;None;John Eckerdal;john.eckerdal@sony.com;None
+1402;None;John Eckerdal;john.eckerdal@sonymobile.com;None
+
+[('SIMPLE_EMAIL_PREFIX', 1), ('FULL_NAME', 1)]
+691;None;Brett Chabot;brettchabot@google.com;None
+2360;None;Brett Chabot;brettchabot@android.com;None
+
+[('FULL_NAME', 1)]
+3257;None;Yoshinori Hirano;yoshinori.hirano@sonymobile.com;None
+4489;None;Yoshinori Hirano;yoshinori.hirano%sony.com@gtempaccount.com;None
+
+[('FULL_NAME', 1)]
+5293;None;Owen Lee;vend_owen.lee@mediatek.com;None
+5365;None;Owen Lee;owen.lee@mediatek.com;None
+
+[('FULL_NAME', 1)]
+700;None;Bing Deng;bing.deng@intel.com;None
+5502;None;Bing Deng;deng8bing@gmail.com;None
+
+[('FULL_NAME', 1)]
+1214;None;Sunny Shao;sunnyshao@google.com;None
+2245;None;Sunny Shao;sunny_shao@htc.com;None
+
+[('SIMPLE_EMAIL_PREFIX', 1), ('FULL_NAME', 1)]
+3701;None;Steven Valdez;svaldez@chromium.org;None
+3702;None;Steven Valdez;svaldez@google.com;None
+
+[('FULL_NAME', 3)]
+1219;None;Pierre-Hugues Husson;pierre-hugues.husson@softathome.com;None
+4874;None;Pierre-Hugues Husson;phhusson@gmail.com;None
+2252;None;Pierre-Hugues Husson;husson@archos.com;None
+
+[('FULL_NAME', 1)]
+196;None;S McCarthy;dc.disconnect@gmail.com;None
+3818;None;S McCarthy;disconn3ct@gmail.com;None
+
+[('FULL_NAME', 1)]
+709;None;Wei Jin;wejin@google.com;None
+5572;None;Wei Jin;wei.a.jin@intel.com;None
+
+[('FULL_NAME', 1)]
+1223;None;Dake Gu;dake@google.com;None
+5111;None;Dake Gu;gudake@gmail.com;None
+
+[('FULL_NAME', 1)]
+4296;None;Felipe Ramos;felipe.wolff@gmail.com;None
+4694;None;Felipe Ramos;wfr005@motorola.com;None
+
+[('FULL_NAME', 1)]
+203;None;Douglas Leung;douglas@mips.com;None
+2820;None;Douglas Leung;douglas.leung@imgtec.com;None
+
+[('FULL_NAME', 1)]
+1741;None;Sandeep Gutta;quic_sangutta@quicinc.com;None
+3925;None;Sandeep Gutta;sangutta@codeaurora.org;None
+
+[('FULL_NAME', 1)]
+4302;None;Sahaj Sarup;sahajsarup@gmail.com;None
+4595;None;Sahaj Sarup;sahaj.sarup@linaro.org;None
+
+[('FULL_NAME', 1)]
+719;None;Wei Wang;wvw@google.com;None
+1715;None;Wei Wang;weiwa@google.com;None
+
+[('FULL_NAME', 1)]
+1745;None;Felka Chang;felkachang@google.com;None
+4437;None;Felka Chang;felka_chang@htc.com;None
+
+[('FULL_NAME', 1)]
+1236;None;Jing Ji;jji@google.com;None
+5486;None;Jing Ji;a5705c@motorola.com;None
+
+[('SIMPLE_EMAIL_PREFIX', 1), ('FULL_NAME', 1)]
+727;None;Adam Powell;adamp@google.com;None
+4274;None;Adam Powell;adamp@android.com;None
+
+[('SIMPLE_EMAIL_PREFIX', 1), ('FULL_NAME', 1)]
+2264;None;Jamie Madill;jmadill@google.com;None
+3604;None;Jamie Madill;jmadill@chromium.org;None
+
+[('FULL_NAME', 1)]
+3289;None;Vinay Kalia;vkalia@codeaurora.org;None
+4276;None;Vinay Kalia;vinaykalia@google.com;None
+
+[('FULL_NAME', 3)]
+1754;None;Suresh Koleti;quic_skoleti@quicinc.com;None
+3515;None;Suresh Koleti;skolet@codeaurora.org;None
+4484;None;Suresh Koleti;skoleti@codeaurora.org;None
+
+[('SIMPLE_EMAIL_PREFIX', 1), ('FULL_NAME', 1)]
+2255;None;Selim Gurun;sgurun@android.com;None
+3542;None;Selim Gurun;sgurun@google.com;None
+
+[('FULL_NAME', 1)]
+732;None;Trevor Drake;trevordrake.gerrit@gmail.com;None
+3767;None;Trevor Drake;trevd1234@gmail.com;None
+
+[('FULL_NAME', 1)]
+2270;None;Woojae Lee;woo.j.lee@sprint.com;None
+3233;None;Woojae Lee;lee.woojae@gmail.com;None
+
+[('FULL_NAME', 1)]
+3877;None;SangWook Han;swhan@nemustech.com;None
+4168;None;SangWook Han;sangwook.han@gmail.com;None
+
+[('FULL_NAME', 1)]
+1760;None;Takeshi Aimi;takeshi.aimi@sonymobile.com;None
+2660;None;Takeshi Aimi;aimitakeshi@gmail.com;None
+
+[('FULL_NAME', 1)]
+1761;None;Sergii Iegorov;sergii.iegorov@globallogic.com;None
+4021;None;Sergii Iegorov;x0155539@ti.com;None
+
+[('FULL_NAME', 1)]
+738;None;Mark Doliner;mark@kingant.net;None
+5175;None;Mark Doliner;markdoliner@google.com;None
+
+[('SIMPLE_EMAIL_PREFIX', 1), ('FULL_NAME', 1)]
+5755;None;Tommy Nyquist;nyquist@chromium.org;None
+5761;None;Tommy Nyquist;nyquist@google.com;None
+
+[('FULL_NAME', 1)]
+1254;None;Joanne Chung;joannechung@google.com;None
+2917;None;Joanne Chung;joanne_chung@htc.com;None
+
+[('FULL_NAME', 1)]
+1768;None;Kevin Hilman;khilman@baylibre.com;None
+2496;None;Kevin Hilman;kevin.hilman@linaro.org;None
+
+[('FULL_NAME', 1)]
+2282;None;Christian Bejram;christian.bejram@stericsson.com;None
+3659;None;Christian Bejram;cbejram@google.com;None
+
+[('FULL_NAME', 1)]
+3310;None;Jiejing Zhang;kzjeef.code@gmail.com;None
+4216;None;Jiejing Zhang;jiejzhang@nvidia.com;None
+
+[('EMAIL', 1)]
+2801;None;Jaime A Lopez-Sollano;jaimel@codeaurora.org;None
+4784;None;Jaime Lopez Sollano;jaimel@codeaurora.org;None
+
+[('SIMPLE_EMAIL_PREFIX', 1), ('FULL_NAME', 1)]
+755;None;Adam Langley;agl@google.com;None
+3086;None;Adam Langley;agl@chromium.org;None
+
+[('EMAIL', 1)]
+757;None;Gu WenHan;wenhan.gu@mediatek.com;None
+4386;None;WenHan Gu;wenhan.gu@mediatek.com;None
+
+[('FULL_NAME', 1)]
+5368;None;Leon Chung;leonchung@google.com;None
+5760;None;Leon Chung;cmlchung@gmail.com;None
+
+[('COMP_EMAIL_PREFIX', 1), ('FULL_NAME', 1)]
+2809;None;Takahiro Aizawa;takahiro.aizawa@sonymobile.com;None
+4503;None;Takahiro Aizawa;takahiro.aizawa@sony.com;None
+
+[('FULL_NAME', 1)]
+1274;None;Hamzeh Zawawy;hamzeh@google.com;None
+1766;None;Hamzeh Zawawy;hzawawy@gmail.com;None
+
+[('SIMPLE_EMAIL_PREFIX', 1), ('FULL_NAME', 1)]
+252;None;Guang Zhu;guangzhu@google.com;None
+2612;None;Guang Zhu;guangzhu@android.com;None
+
+[('EMAIL', 1)]
+4354;None;David Ng;dave@codeaurora.org;None
+4954;None;David Ng;dave@codeaurora.org;None
+
+[('FULL_NAME', 1)]
+771;None;Hiroki Yamamoto;hiroki.a.yamamoto@sony.com;None
+3619;None;Hiroki Yamamoto;hiroki.yamamoto@sonymobile.com;None
+
+[('FULL_NAME', 1)]
+4482;None;Ki-Hwan Lee;kihwanl@google.com;None
+4622;None;Ki-Hwan Lee;kiban18@gmail.com;None
+
+[('SIMPLE_EMAIL_PREFIX', 1), ('FULL_NAME', 1)]
+1805;None;Ben Murdoch;benm@google.com;None
+3468;None;Ben Murdoch;benm@android.com;None
+
+[('COMP_EMAIL_PREFIX', 1), ('FULL_NAME', 1)]
+2319;None;Goran Jakovljevic;goran.jakovljevic@imgtec.com;None
+4586;None;Goran Jakovljevic;goran.jakovljevic@mips.com;None
+
+[('FULL_NAME', 1)]
+281;None;Tiago Vaz;tiago.vaz@truphone.com;None
+3986;None;Tiago Vaz;tiagoavaz@gmail.com;None
+
+[('COMP_EMAIL_PREFIX', 1), ('FULL_NAME', 1)]
+1819;None;Dominic Lemire;dominic.lemire@broadcom.com;None
+2769;None;Dominic Lemire;dominic.lemire@gmail.com;None
+
+[('FULL_NAME', 1)]
+2266;None;Mike Playle;mike.playle@realvnc.com;None
+3255;None;Mike Playle;mike@vfx.org.uk;None
+
+[('FULL_NAME', 1)]
+1310;None;Charles Chen;charlesccchen@google.com;None
+3635;None;Charles Chen;charles.cc_chen@htc.com;None
+
+[('FULL_NAME', 1)]
+1311;None;Kevin Wang;wk091218@gmail.com;None
+5177;None;Kevin Wang;kevin.a.wang@intel.com;None
+
+[('FULL_NAME', 1)]
+288;None;Peter Li;pyli@google.com;None
+2004;None;Peter Li;lpeter@google.com;None
+
+[('FULL_NAME', 1)]
+291;None;Nathan Harold;nharold@google.com;None
+4458;None;Nathan Harold;ncharold@gmail.com;None
+
+[('FULL_NAME', 1)]
+2341;None;Rohit Agrawal;rohit.agrawal.mn@gmail.com;None
+2727;None;Rohit Agrawal;rohitagr@google.com;None
+
+[('FULL_NAME', 1)]
+1320;None;Gabriel Siqueira;gsiqueir@motorola.corp-partner.google.com;None
+3956;None;Gabriel Siqueira;gabriel.siqueira@gmail.com;None
+
+[('FULL_NAME', 1)]
+220;None;Chih-Wei Huang;None;None
+2069;None;Chih-Wei Huang;cwhuang@android-x86.org;None
+
+[('FULL_NAME', 1)]
+1834;None;Amaury Medeiros;amaurym@google.com;None
+5712;None;Amaury Medeiros;amaurymedeiros@gmail.com;None
+
+[('FULL_NAME', 1)]
+1845;None;Tochau Hoang;tochau.hoang@panasonic.aero;None
+2514;None;Tochau Hoang;tochaupac@gmail.com;None
+
+[('FULL_NAME', 1)]
+316;None;Kenny Root;kroot@google.com;None
+598;None;Kenny Root;kenny@the-b.org;None
+
+[('COMP_EMAIL_PREFIX', 1), ('FULL_NAME', 1)]
+3466;None;Shunta Sato;shunta.sato@sonymobile.com;None
+4554;None;Shunta Sato;shunta.sato@sony.com;None
+
+[('FULL_NAME', 1)]
+1856;None;Adarsh Reddy;quic_padarshr@quicinc.com;None
+3142;None;Adarsh Reddy;padarshr@codeaurora.org;None
+
+[('SIMPLE_EMAIL_PREFIX', 1), ('FULL_NAME', 1)]
+4320;None;Sherry Yang;sherryy@google.com;None
+4413;None;Sherry Yang;sherryy@android.com;None
+
+[('FULL_NAME', 1)]
+2374;None;Alex Yakavenka;alex.yakavenka@gmail.com;None
+2380;None;Alex Yakavenka;ayakav@codeaurora.org;None
+
+[('FULL_NAME', 1)]
+3403;None;Sangcheol Lee;hisangcheol@gmail.com;None
+5127;None;Sangcheol Lee;goodsc.lee@samsung.com;None
+
+[('FULL_NAME', 1)]
+5224;None;Josh Choo;josh@joshchoo.com;None
+5438;None;Josh Choo;dev@joshuous.com;None
+
+[('COMP_EMAIL_PREFIX', 1), ('FULL_NAME', 1)]
+4436;None;Takamasa Kuramitsu;takamasa.kuramitsu@sonymobile.com;None
+4499;None;Takamasa Kuramitsu;takamasa.kuramitsu@sony.com;None
+
+[('FULL_NAME', 1)]
+3214;None;Scott Kennedy;skennedy27@gmail.com;None
+4461;None;Scott Kennedy;skennedy@android.com;None
+
+[('FULL_NAME', 1)]
+1366;None;Bill Lin;lbill@google.com;None
+4551;None;Bill Lin;bill_lin@htc.com;None
+
+[('FULL_NAME', 1)]
+1371;None;Maunik Shah;mshah@codeaurora.org;None
+2137;None;Maunik Shah;maunik@google.com;None
+
+[('SIMPLE_EMAIL_PREFIX', 1), ('FULL_NAME', 1)]
+2396;None;Corentin Wallez;cwallez@google.com;None
+3577;None;Corentin Wallez;cwallez@chromium.org;None
+
+[('COMP_EMAIL_PREFIX', 1), ('FULL_NAME', 3)]
+349;None;Alessio Balsini;balsini@google.com;None
+4802;None;Alessio Balsini;alessio.balsini@arm.com;None
+4100;None;Alessio Balsini;alessio.balsini@gmail.com;None
+
+[('EMAIL', 1)]
+4446;None;Susheel Nyamala;snyamala@codeaurora.org;None
+5089;None;Susheel Kumar N;snyamala@codeaurora.org;None
+
+[('FULL_NAME', 1)]
+2400;None;Patrick Tsai;yinghau76@gmail.com;None
+3236;None;Patrick Tsai;patrick.tsai@mediatek.com;None
+
+[('FULL_NAME', 1)]
+4155;None;Joshua Brindle;jbrindle@tresys.com;None
+4919;None;Joshua Brindle;brindle@quarksecurity.com;None
+
+[('FULL_NAME', 1)]
+356;None;Tiger Huang;tiger_huang@htc.com;None
+5598;None;Tiger Huang;tigerhuang@google.com;None
+
+[('FULL_NAME', 1)]
+4454;None;Yoshitaka Seto;yoshitaka.seto.at.sony.com@gmail.com;None
+4568;None;Yoshitaka Seto;yoshitaka.seto@sony.com;None
+
+[('FULL_NAME', 1)]
+2408;None;Jun Young Cho;joonyoung.cho@lge.com;None
+4374;None;Jun Young Cho;zbjection@gmail.com;None
+
+[('FULL_NAME', 1)]
+1389;None;Xiaofeng Lei;xiaofeng.lei.bj@gmail.com;None
+4197;None;Xiaofeng Lei;xiaofeng.lei@ff.com;None
+
+[('COMP_EMAIL_PREFIX', 1), ('FULL_NAME', 1)]
+1907;None;Kevin Brodsky;kevin.brodsky@arm.com;None
+2996;None;Kevin Brodsky;kevin.brodsky@linaro.org;None
+
+[('FULL_NAME', 1)]
+5342;None;Nitin Shivpure;nshivpur@codeaurora.org;None
+5765;None;Nitin Shivpure;quic_nshivpur@quicinc.com;None
+
+[('FULL_NAME', 1)]
+3452;None;Fernando Lugo;lugo.fernando@gmail.com;None
+3958;None;Fernando Lugo;flugo@google.com;None
+
+[('FULL_NAME', 1)]
+3170;None;Avish Shah;avshah%broadcom.com@gtempaccount.com;None
+4120;None;Avish Shah;avish.shah@broadcom.com;None
+
+[('FULL_NAME', 1)]
+1918;None;Thorsten Glaser;None;None
+3909;None;Thorsten Glaser;tg@mirbsd.org;None
+
+[('FULL_NAME', 1)]
+3456;None;Shibin George;shibing@codeaurora.org;None
+5705;None;Shibin George;quic_shibing@quicinc.com;None
+
+[('FULL_NAME', 1)]
+3458;None;Gabriel Beddingfield;beddingfield@nestlabs.com;None
+3907;None;Gabriel Beddingfield;gabrbedd@ti.com;None
+
+[('FULL_NAME', 1)]
+1925;None;Josh Guilfoyle;jasta00@gmail.com;None
+3292;None;Josh Guilfoyle;josh.guilfoyle@t-mobile.com;None
+
+[('COMP_EMAIL_PREFIX', 1), ('FULL_NAME', 1)]
+903;None;takeshi tanigawa;takeshi.tanigawa@sony.com;None
+3693;None;takeshi tanigawa;takeshi.tanigawa@sonymobile.com;None
+
+[('FULL_NAME', 1)]
+2952;None;Bin Jin;binjin@google.com;None
+3129;None;Bin Jin;bjin1990@gmail.com;None
+
+[('FULL_NAME', 1)]
+1418;None;Abhijit Adsule;adsule@google.com;None
+4147;None;Abhijit Adsule;abhijit@motorola.com;None
+
+[('FULL_NAME', 1)]
+908;None;Alex Saveau;asaveau@google.com;None
+4680;None;Alex Saveau;saveau.alexandre@gmail.com;None
+
+[('FULL_NAME', 1)]
+400;None;Jiyong Park;jiyong@google.com;None
+2381;None;Jiyong Park;jjongpark@gmail.com;None
+
+[('COMP_EMAIL_PREFIX', 1), ('FULL_NAME', 1)]
+5009;None;bing liang;bing.liang@unisoc.com;None
+5574;None;bing liang;bing.liang@unisoc.corp-partner.google.com;None
+
+[('EMAIL', 1)]
+919;None;John Reck;jreck@google.com;None
+4902;None;John Reck;jreck@google.com;None
+
+[('COMP_EMAIL_PREFIX', 1), ('FULL_NAME', 1)]
+922;None;hui fang;hui.fang@nxp.com;None
+3259;None;hui fang;hui.fang@freescale.com;None
+
+[('FULL_NAME', 1)]
+1947;None;Tom Marshall;None;None
+4238;None;Tom Marshall;tdm.code@gmail.com;None
+
+[('FULL_NAME', 1)]
+924;None;yidong zhang;yidong.zhang@unisoc.corp-partner.google.com;None
+4729;None;yidong zhang;zhangyd6@gmail.com;None
+
+[('FULL_NAME', 1)]
+1946;None;Vincent Palatin;vincent.palatin_android@m4x.org;None
+3183;None;Vincent Palatin;vpalatin@google.com;None
+
+[('FULL_NAME', 1)]
+3141;None;Stephen Li;stephenli@google.com;None
+3500;None;Stephen Li;stephenl@codeaurora.org;None
+
+[('FULL_NAME', 1)]
+1952;None;Sukanya Rajkhowa;sukanyar@quicinc.com;None
+5227;None;Sukanya Rajkhowa;srajkh@codeaurora.org;None
+
+[('FULL_NAME', 1)]
+930;None;Wojtek Kaliciski;wkal@google.com;None
+5110;None;Wojtek Kaliciski;wojtek.kalicinski@gmail.com;None
+
+[('COMP_EMAIL_PREFIX', 1), ('FULL_NAME', 1)]
+421;None;joker yang;joker.yang@unisoc.corp-partner.google.com;None
+1036;None;joker yang;joker.yang@unisoc.com;None
+
+[('SIMPLE_EMAIL_PREFIX', 1), ('FULL_NAME', 1)]
+2473;None;Kevin Cernekee;cernekee@google.com;None
+5179;None;Kevin Cernekee;cernekee@gmail.com;None
+
+[('COMP_EMAIL_PREFIX', 1), ('FULL_NAME', 1)]
+3498;None;fen wang;fen.wang@sonymobile.com;None
+4345;None;fen wang;fen.wang@sony.com;None
+
+[('FULL_NAME', 1)]
+2987;None;Tim Baverstock;weasel@google.com;None
+5145;None;Tim Baverstock;tim.baverstock@corp.badoo.com;None
+
+[('SIMPLE_EMAIL_PREFIX', 1), ('FULL_NAME', 3)]
+3501;None;Anju Mathapati;mathan@codeaurora.org;None
+4659;None;Anju Mathapati;anjucm@codeaurora.org;None
+3923;None;Anju Mathapati;anjucm@quicinc.com;None
+
+[('FULL_NAME', 1)]
+2478;None;Yu Liu;e7664c@motorola.com;None
+3703;None;Yu Liu;yudiliu@google.com;None
+
+[('FULL_NAME', 1)]
+1970;None;Sagar Shah;sagshah@google.com;None
+2810;None;Sagar Shah;sagars@codeaurora.org;None
+
+[('FULL_NAME', 1)]
+5044;None;Sultan Alsawaf;sultanxda@gmail.com;None
+5377;None;Sultan Alsawaf;sultan.kerneltoast@gmail.com;None
+
+[('FULL_NAME', 1)]
+1462;None;Mengjun Leng;quic_mengju@quicinc.com;None
+4193;None;Mengjun Leng;mengju@codeaurora.org;None
+
+[('FULL_NAME', 1)]
+2633;None;Mac Wang;mac_wang@acer.com.tw;None
+5120;None;Mac Wang;macw@google.com;None
+
+[('FULL_NAME', 3)]
+952;None;Al Sutton;alsutton@google.com;None
+1392;None;Al Sutton;al.sutton@alsutton.com;None
+2831;None;Al Sutton;al@funkyandroid.com;None
+
+[('SIMPLE_EMAIL_PREFIX', 1), ('FULL_NAME', 1)]
+1466;None;Martin Brabham;optedoblivion@google.com;None
+2304;None;Martin Brabham;optedoblivion@gmail.com;None
+
+[('FULL_NAME', 1)]
+2942;None;Yan Laijun;yan.laijun@gmail.com;None
+3093;None;Yan Laijun;yan-laijun@xiaomi.com;None
+
+[('COMP_EMAIL_PREFIX', 1), ('FULL_NAME', 1)]
+4029;None;Brian Code;brian.code@gmail.com;None
+4665;None;Brian Code;brian.code@koolu.com;None
+
+[('FULL_NAME', 1)]
+448;None;Hector Dearman;hjd@google.com;None
+1652;None;Hector Dearman;hector.dearman@gmail.com;None
+
+[('SIMPLE_EMAIL_PREFIX', 1), ('FULL_NAME', 1)]
+449;None;Stephen Nusko;nuskos@google.com;None
+5455;None;Stephen Nusko;nuskos@chromium.org;None
+
+[('COMP_EMAIL_PREFIX', 1), ('FULL_NAME', 1)]
+962;None;Koji Fukui;koji.fukui@sony.com;None
+3643;None;Koji Fukui;koji.fukui@sonymobile.com;None
+
+[('SIMPLE_EMAIL_PREFIX', 1), ('FULL_NAME', 1)]
+3526;None;Wileen Chiu;wileenc@quicinc.com;None
+3862;None;Wileen Chiu;wileenc@codeaurora.org;None
+
+[('FULL_NAME', 3)]
+455;None;Jake Wharton;jakew@google.com;None
+3537;None;Jake Wharton;jw@squareup.com;None
+535;None;Jake Wharton;jakewharton@gmail.com;None
+
+[('COMP_EMAIL_PREFIX', 1), ('FULL_NAME', 1)]
+1480;None;Mattias Nilsson;mattias.nilsson@sony.com;None
+4377;None;Mattias Nilsson;mattias.nilsson@sonymobile.com;None
+
+[('FULL_NAME', 1)]
+1612;None;Pooja Jain;quic_poojain@quicinc.com;None
+4644;None;Pooja Jain;poojain@codeaurora.org;None
+
+[('COMP_EMAIL_PREFIX', 1), ('FULL_NAME', 1)]
+3018;None;Akira Numata;akira.numata@sonymobile.com;None
+4523;None;Akira Numata;akira.numata@sony.com;None
+
+[('FULL_NAME', 1)]
+1995;None;Masanori Ogino;mogimogio@gmail.com;None
+2623;None;Masanori Ogino;ogino.masanori@sharp.co.jp;None
+
+[('FULL_NAME', 1)]
+1485;None;Barani Muthukumaran;quic_bmuthuku@quicinc.com;None
+1879;None;Barani Muthukumaran;bmuthuku@codeaurora.org;None
+
+[('FULL_NAME', 1)]
+4046;None;Mikhail Lappo;miklelappo@gmail.com;None
+5750;None;Mikhail Lappo;mikhail.lappo@esrlabs.com;None
+
+[('FULL_NAME', 1)]
+4559;None;Jimin Wang;jiminwang21@gmail.com;None
+5522;None;Jimin Wang;wangjimin@oppo.com;None
+
+[('FULL_NAME', 1)]
+4051;None;Qi Ling;qling@sta.samsung.com;None
+5043;None;Qi Ling;lingq@google.com;None
+
+[('FULL_NAME', 1)]
+4780;None;Artem Radchenko;murano500k@gmail.com;None
+5183;None;Artem Radchenko;artem.radchenko@globallogic.com;None
+
+[('COMP_EMAIL_PREFIX', 1), ('FULL_NAME', 1)]
+4057;None;Shuhei Miyazaki;shuhei.miyazaki@sonymobile.com;None
+4488;None;Shuhei Miyazaki;shuhei.miyazaki@sony.com;None
+
+[('FULL_NAME', 1)]
+475;None;Masataka Kato;kato.masataka@jp.fujitsu.com;None
+3381;None;Masataka Kato;fcnt.mk@gmail.com;None
+
+[('FULL_NAME', 1)]
+4061;None;Seohyeon Song;coming0410@gmail.com;None
+4573;None;Seohyeon Song;seohyeon85410@gmail.com;None
+
+[('FULL_NAME', 1)]
+478;None;Cheney Ni;cheneyni@google.com;None
+3557;None;Cheney Ni;nichengyi619@gmail.com;None
+
+[('SIMPLE_EMAIL_PREFIX', 1), ('FULL_NAME', 1)]
+991;None;Chris Fries;cfries@motorola.com;None
+1212;None;Chris Fries;cfries@google.com;None
+
+[('COMP_EMAIL_PREFIX', 1), ('FULL_NAME', 1)]
+3553;None;Tomoharu Hatano;tomoharu.hatano@sonymobile.com;None
+4511;None;Tomoharu Hatano;tomoharu.hatano@sony.com;None
+
+[('SIMPLE_EMAIL_PREFIX', 1), ('FULL_NAME', 1)]
+2019;None;Charles Lin;charleslin@realtek.corp-partner.google.com;None
+2041;None;Charles Lin;charleslin@realtek.com;None
+
+[('SIMPLE_EMAIL_PREFIX', 1), ('FULL_NAME', 1)]
+485;None;Yi Kong;yikong@google.com;None
+725;None;Yi Kong;yikong@chromium.org;None
+
+[('SIMPLE_EMAIL_PREFIX', 1), ('FULL_NAME', 1)]
+2535;None;Robert Tray;rtray@nvidia.com;None
+3454;None;Robert Tray;rtray@gpartner-nvidia.com;None
+
+[('FULL_NAME', 1)]
+4585;None;Yu Chen;chen0228yu@gmail.com;None
+5203;None;Yu Chen;yu.chen@mediatek.com;None
+
+[('SIMPLE_EMAIL_PREFIX', 1), ('FULL_NAME', 1)]
+495;None;Jaegeuk Kim;jaegeuk@google.com;None
+2931;None;Jaegeuk Kim;jaegeuk@motorola.com;None
+
+[('FULL_NAME', 1)]
+496;None;Hongguang Chen;chenhg@synaptics.com;None
+2073;None;Hongguang Chen;hgchen@google.com;None
+
+[('SIMPLE_EMAIL_PREFIX', 1), ('FULL_NAME', 1)]
+3058;None;Mayuresh Kulkarni;mkulkarni@nvidia.com;None
+3974;None;Mayuresh Kulkarni;mkulkarni@opensource.wolfsonmicro.com;None
+
+[('FULL_NAME', 1)]
+4521;None;Danny Jiang;danny.jiang605@gmail.com;None
+4917;None;Danny Jiang;danny.jiang@samsung.com;None
+
+[('FULL_NAME', 1)]
+3064;None;Li Chen;freepine@gmail.com;None
+3647;None;Li Chen;akaineko@google.com;None
+
+[('SIMPLE_EMAIL_PREFIX', 1), ('FULL_NAME', 1)]
+3069;None;he qiang;heqiang1008@gmail.com;None
+3102;None;he qiang;heqiang1008@thundersoft.com;None
+
+[('SIMPLE_EMAIL_PREFIX', 1), ('FULL_NAME', 1)]
+2046;None;Romain Guy;romainguy@curious-creature.com;None
+2244;None;Romain Guy;romainguy@android.com;None

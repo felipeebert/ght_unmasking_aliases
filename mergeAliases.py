@@ -28,7 +28,7 @@ THR_MAX = 20
 
 unmask = {}
 
-dataPath = os.path.abspath('../')
+dataPath = os.path.abspath('./')
 
 w_log = UnicodeWriter(open(os.path.join(dataPath, 'idm_log.csv'), 'wb'))
 writer = UnicodeWriter(open(os.path.join(dataPath, 'idm_map.csv'), 'wb'))
@@ -40,7 +40,7 @@ curidx = step
 
 aliases = {}
 
-reader = UnicodeReader(open(os.path.join(dataPath, 'users_emails_sample.csv'), 'rb'))
+reader = UnicodeReader(open(os.path.join(dataPath, 'authors-no-bots-emails.csv'), 'rb'))
 # _header = reader.next()
 
 # Helper structures
@@ -73,15 +73,24 @@ uid = 0
 raw = {}
 
 for row in reader:
-    line = row.decode('utf-8').strip()
+    line = row[0].decode('utf-8').strip()
+    #line = row
+    
+    #line = line[0].strip()
+    print line
+    left = line.find('<')
+    right = line.find('>')
+    
     uid = uid + 1
     raw[uid] = line
     login = None #row[1].strip()
     user_type = None
     location = None
     try:
-        name = line.split('<')[0].strip()
-        email = line.split('<')[1].strip().split('>')[0].strip()
+        #name = line.split('<')[0].strip()
+        name = line[0 : left]
+        #email = line.split('<')[1].strip().split('>')[0].strip()
+        email = line[left + 1 : right]
     except:
         print line
         exit()
